@@ -1,8 +1,10 @@
 <?php
 global $lang;
 
-$lang['home'] = 'Hombre';
-$lang['services'] = 'si';
-$lang['aboutus'] = 'About Us';
-$lang['contacts'] = 'Contacts';
+$lang['language'] = 'Spanish';
+$lang['home'] = 'hombre';
+$lang['aboutus'] = 'Sobre Nosotros';
+$lang['saunas'] = 'Saunas';
+$lang['faq'] = 'Preguntas Frecuentes';
+$lang['login'] = 'Log In';
  ?>

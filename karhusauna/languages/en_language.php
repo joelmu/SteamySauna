@@ -1,8 +1,11 @@
 <?php
 global $lang;
 
+$lang['language'] = 'English';
 $lang['home'] = 'Home';
-$lang['services'] = 'Services';
 $lang['aboutus'] = 'About Us';
-$lang['contacts'] = 'Contacts';
+$lang['saunas'] = 'Saunas';
+$lang['faq'] = 'FAQ';
+$lang['login'] = 'Log In';
+
  ?>

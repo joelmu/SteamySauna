@@ -1,8 +1,10 @@
 <?php
 global $lang;
 
-$lang['home'] = 'Koti';
-$lang['services'] = 'Palvelut';
-$lang['aboutus'] = 'About Us';
-$lang['contacts'] = 'Contacts';
+$lang['language'] = 'Finnish';
+$lang['home'] = 'koti';
+$lang['aboutus'] = 'Tietoa meistä';
+$lang['saunas'] = 'Saunat';
+$lang['faq'] = 'UKK';
+$lang['login'] = 'Log In';
  ?>
