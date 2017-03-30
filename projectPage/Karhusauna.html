@@ -7,82 +7,33 @@
 
 <title>Karhusauna</title>
 
-<!-- Now the CSS definitions begin. -->
 <style type="text/css">
 
-      /*   The following definition specifies styles for <p> and <li> elements, i.e.,
-           for paragraphs and list items. */
-
-      p, li
-      {
+      p, li{
          font-family: "Times New Roman", Times, serif ;
-         font-size:   0.875em ; /* 1.0em would mean the normal font size. */
-         padding-bottom: 0.5em ; /* Empty space below the element. */
+         font-size:   0.875em ;
+         padding-bottom: 1.0em ;
       }
-
-      /*   The following definitions specify styles for <div> elements that are
-           later referred to with ids container, buttonarea, content, and footer.
-      */
-
-      #container
-      {
-         width:  600px;        /* The width of the information area */
-         margin: 128px auto;    /* Top and bottom margins are 128 points.
-                                   Left and right margins are automatic, which means
-                                   that the element will be centered horizontally. */
+      body{
+      
       }
-
-      #picturearea
-      {
+      #container{
+         width:  600px;
+         margin: 128px auto;
+      }
+      #picturearea{
          width:  180px ;
          float:  left ;
       }
-
-      #content
-      {
+      #content{
          width:  420px ;
          float:  left ;
       }
-
-      #footer
-      {
+      #footer{
          background-color: #EEEEEE ;
          clear:            both ;
          text-align:       center ;
       }
-
-
-#special_table
-{
-   font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
-   font-size: 12px;  /* This seems to affect the whole table. */
-   width:100%;
-   border-collapse:collapse;
-}
-
-#special_table td, #special_table th
-{
-   /*font-size:1.0em; */
-   border:1px solid #98bf21;
-   padding:3px 7px 2px 7px;
-}
-
-#special_table th
-{
-   font-size:1.1em;
-   text-align:left;
-   padding-top:5px;
-   padding-bottom:4px;
-   background-color:#A7C942;
-   color:#ffffff;
-}
-
-#special_table tr.alt td
-{
-   color:#000000;
-   background-color:#EAF2D3;
-}
-
 
 </style>
 </head>
@@ -93,26 +44,17 @@
 
 <div id="picturearea">
 
-<img src="images/bear.jpg" alt="Bear" style="width:204px;height:308px;">
+<img src="images/sauna.png" alt="Bear" style="width:504px;height:308px;">
 </div>
 
 <div id="content">
 
    <h2>Karhusauna</h2>
 
-   <p>You should make this kind of page for your project.
-      The purpose of the page is to provide important project
-	  documentation and links to documents. Here you can explain
-     the goal of your project with a few sentences.
-   </p>
-
-   <p>Your teacher will put a link to your project page
-      from the course page. For this reason,
-      you should name your .html file so that its name
-      is, for example, nicegame_project_page.html if the name of your
-      project is called NiceGame. (If you use this page as a basis
-      for your project page, you just replace the word
-      'sample' with the name of your project.)
+   <p>The goal of our website is to facilitate the management of membership and
+    reservations of our client's sauna business. The web will allow users to
+    create their own account, load money and be able to reserve turns in
+    different sauna locations through a friendly user interface.
    </p>
 
    <h3>Project group</h3>
@@ -124,7 +66,7 @@
    <h3>Project documents</h3>
 
 
-   <ul> <!-- start of an unordered list -->
+   <ul>
 
 
       <li><a href="RequirementsDocument.docx-3.pdf">
@@ -173,10 +115,9 @@
   <div id="footer">
   </div>
 
-</div>  <!-- end of content -->
+</div>
 
-
-</div>  <!-- end of container -->
+</div>
 
 </body>
 </html>
