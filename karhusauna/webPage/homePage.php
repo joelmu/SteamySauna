@@ -1,7 +1,7 @@
 <html>
 <?php
 include_once("../languages/lang.php"); ?>
-<?php include "menu.php" ?>
+<?php include "header_menu_bar.php" ?>
 <br>
 <p>jew</p>
 <footer>
