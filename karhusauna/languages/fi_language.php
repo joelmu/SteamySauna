@@ -8,4 +8,6 @@ $lang['saunas'] = 'Saunat';
 $lang['faq'] = 'UKK';
 $lang['login'] = 'Log In';
 $lang['aboutusPar'] = 'here is the place for senorita';
+$lang['faqPar'] = 'sample text';
+$lang['saunasPar'] = 'sample text';
  ?>

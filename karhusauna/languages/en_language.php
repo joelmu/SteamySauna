@@ -8,5 +8,7 @@ $lang['saunas'] = 'Saunas';
 $lang['faq'] = 'FAQ';
 $lang['login'] = 'Log In';
 $lang['aboutusPar'] = 'here is the place for hombre';
+$lang['faqPar'] = 'sample text';
+$lang['saunasPar'] = 'sample text';
 
  ?>

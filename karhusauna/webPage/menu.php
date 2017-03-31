@@ -22,7 +22,7 @@
 <ul id="nav" class="nav">
  <li class="active"><a id="home" href="homePage.php"><?php echo htmlspecialchars($lang['home']); ?></a></li>
  <li><a id="menu" href="aboutUs.php"><?php echo htmlspecialchars($lang['aboutus']); ?></a></li>
- <li><a id="menu" href="#"><?php echo htmlspecialchars($lang['saunas']); ?></a></li>
- <li><a id="menu" href="#"><?php echo htmlspecialchars($lang['faq']); ?></a></li>
+ <li><a id="menu" href="saunas.php"><?php echo htmlspecialchars($lang['saunas']); ?></a></li>
+ <li><a id="menu" href="faq.php"><?php echo htmlspecialchars($lang['faq']); ?></a></li>
  <li><a id="menu" href="#"><?php echo htmlspecialchars($lang['login']); ?></a></li>
 </ul>
