@@ -3,20 +3,24 @@
   <?php
   include_once("../languages/lang.php"); ?>
 <link rel="stylesheet" type="text/css" href="style.css">
+<script src="script.js">
+
+</script>
 </head>
 <body>
-<div class="languages">
-  <button class="dropbtn"><?php echo htmlspecialchars($lang['language']); ?></button>
-  <div class="dropdown-content">
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"><?php echo htmlspecialchars($lang['language']); ?></button>
+  <div id="myDropdown" class="dropdown-content">
 
-    <a href="homePage.php?lang=en">english</a>
-    <a href="homePage.php?lang=fi">finnish</a>
-    <a href="homePage.php?lang=es">spanish</a>
-  </div> 
+    <a href="?lang=en">English</a>
+    <a href="?lang=fi">Finnish</a>
+    <a href="?lang=es">Spanish</a>
+  </div>
 
 </div>
-<ul id="nav">
- <li><a id="home" href="homePage.php" class="active"><?php echo htmlspecialchars($lang['home']); ?></a></li>
+
+<ul id="nav" class="nav">
+ <li class="active"><a id="home" href="homePage.php"><?php echo htmlspecialchars($lang['home']); ?></a></li>
  <li><a id="menu" href="aboutUs.php"><?php echo htmlspecialchars($lang['aboutus']); ?></a></li>
  <li><a id="menu" href="#"><?php echo htmlspecialchars($lang['saunas']); ?></a></li>
  <li><a id="menu" href="#"><?php echo htmlspecialchars($lang['faq']); ?></a></li>

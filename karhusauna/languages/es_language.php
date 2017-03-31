@@ -7,4 +7,5 @@ $lang['aboutus'] = 'Sobre Nosotros';
 $lang['saunas'] = 'Saunas';
 $lang['faq'] = 'Preguntas Frecuentes';
 $lang['login'] = 'Log In';
+$lang['aboutusPar'] = 'here is the place for stuff';
  ?>

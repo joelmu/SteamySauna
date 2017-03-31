@@ -20,11 +20,15 @@ ul {
 li a:hover {
     background-color: #111;
 }
-ul#nav.active {
+.nav li.active {
 background-color: brown;
 }
+.nav li.active a {
+    color:#fff;
+    font-weight:bold;
+}
 #home{
-  float:left;
+  float:center;
 }
 #menu{
   float:right;
@@ -42,24 +46,34 @@ background-color: brown;
     border: none;
     cursor: pointer;
 }
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+.dropdown {
+    float:right;
+    position: relative;
+    display: inline-block;
+}
+
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
+    overflow: auto;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
-.dropdown-content a:hover {background-color: #f1f1f1}
-.languages:hover .dropdown-content {
-    display: block;
-}
-.languages:hover .dropbtn {
-    background-color: #3e8e41;
-}
+
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
+
+.dropdown a:hover {background-color: #f1f1f1}
+
+.show {display:block;}
