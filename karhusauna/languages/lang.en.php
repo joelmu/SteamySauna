@@ -5,16 +5,21 @@ Language: English
 ------------------
 */
 $lang = array();
-$lang['PAGE_TITLE'] = 'My website page title';
-$lang['HEADER_TITLE'] = 'My website header title';
-$lang['SITE_NAME'] = 'My Website';
-$lang['SLOGAN'] = 'My slogan here';
-$lang['HEADING'] = 'Heading';
-// Menu
+
+$lang['PAGE_TITLE'] = 'Karhusauna';
+
+// Header Menu Bar
+$lang['ACTIVE_LANG'] = '?lang=en';
+$lang['ACTIVE_LANG_IMG'] = '../images/small/English.png';
+
+$lang['UNACTIVE_LANG_1'] = '?lang=fi';
+$lang['UNACTIVE_LANG_1_IMG'] = '../images/small/Finnish.png';
+$lang['UNACTIVE_LANG_2'] = '?lang=es';
+$lang['UNACTIVE_LANG_2_IMG'] = '../images/small/Spanish.png';
+
 $lang['MENU_HOME'] = 'Home';
-$lang['MENU_ABOUT_US'] = 'About Us';
-$lang['MENU_OUR_PRODUCTS'] = 'Our products';
-$lang['MENU_CONTACT_US'] = 'Contact Us';
-$lang['MENU_ADVERTISE'] = 'Advertise';
-$lang['MENU_SITE_MAP'] = 'Site Map';
+$lang['MENU_ABOUT_US'] = 'ABOUT US';
+$lang['MENU_SAUNA'] = 'SAUNA';
+$lang['MENU_FAQ'] = 'F.A.Q';
+$lang['MENU_LOGIN'] = 'LOGIN';
 ?>

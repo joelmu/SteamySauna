@@ -5,5 +5,5 @@
 include_once "../languages/lang.php" ?>
 </head>
 <body>
-<p><?php echo htmlspecialchars($lang['aboutusPar']); ?></p>
+<p></p>
 <?php include "footer.php" ?>

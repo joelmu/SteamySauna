@@ -1,0 +1,22 @@
+
+#navigation-bar {
+	background-color: black; 
+	font-family: 'Raleway';
+}
+#navigation-bar a{
+	color: #ccc;
+}
+#navigation-bar img{
+	max-width: 50%;
+	max-height: 50%;
+}
+body {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.dropdown-menu {
+	border: none;
+	background-color: black;
+}
+
+		
