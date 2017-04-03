@@ -33,7 +33,7 @@
 
     	<div id="navigation-bar">
     	<!-- Navigation bar -->
-		    <ul class="nav">
+		    <ul class="nav justify-content-end">
 		  		<li class="nav-item">
 		    		<a class="nav-link active" href="#"><?php echo $lang['MENU_ABOUT_US']; ?></a>
 		  		</li>
