@@ -22,4 +22,5 @@ $lang['MENU_ABOUT_US'] = 'TIETOA MEISTÄ';
 $lang['MENU_SAUNA'] = 'SAUNA';
 $lang['MENU_FAQ'] = 'U.K.K';
 $lang['MENU_LOGIN'] = 'KIRJAUDU SISÄÄN';
+
 ?>

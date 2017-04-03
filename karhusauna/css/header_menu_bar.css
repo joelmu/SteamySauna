@@ -1,6 +1,6 @@
 
 #navigation-bar {
-	background-color: black; 
+	background-color: black;
 	font-family: 'Raleway';
 }
 #navigation-bar a{
@@ -18,5 +18,6 @@ body {
 	border: none;
 	background-color: black;
 }
-
-		
+#logo{
+	float:left;
+}
