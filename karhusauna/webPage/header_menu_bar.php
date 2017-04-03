@@ -24,6 +24,7 @@
 		<!-- Languages processing file -->
 
 		<?php include "../languages/common.php" ?>
+		<?php include "../sql/connection.php" ?>
 
   </head>
 
