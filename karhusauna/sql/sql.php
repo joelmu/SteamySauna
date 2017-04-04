@@ -34,7 +34,7 @@
   FOREIGN KEY (id_customers) REFERENCES customers(id_customers)
     ON DELETE RESTRICT ON UPDATE CASCADE) Engine=InnoDB;
 
-    INSERT INTO customers(firstname,lastname) VALUES('Ann','Smith');
+    INSERT INTO customers(firstname,lastname) VALUES('Joe','Smith');
 
 </pre>
 
