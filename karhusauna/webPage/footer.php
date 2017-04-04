@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="../css/footer.css">
 
 	<!-- Footer -->
-		
+
 			<div id="footer-bar">
 				<div class="row">
 					<!-- Social media bar -->
@@ -15,7 +15,7 @@
 					<!-- Address -->
 					<div class="col-md-4">
 						Karhukatu 4 Oulu.
-						04 97382782
+						+358407382782
 					</div>
 				</div>
 			</div>

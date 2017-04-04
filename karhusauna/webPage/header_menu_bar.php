@@ -34,18 +34,18 @@
 
     	<div id="navigation-bar">
     	<!-- Navigation bar -->
-      <a class="navbar-brand" id="logo" href="homePage.php">Logo</a>
+      <a class="navbar-brand" id="logo" href="../webPage/homePage.php">Logo</a>
 		    <ul class="nav justify-content-end">
 		  		<li class="nav-item">
-		    		<a class="nav-link active" href="aboutus.php"><?php echo $lang['MENU_ABOUT_US']; ?></a>
+		    		<a class="nav-link active" href="../webPage/aboutus.php"><?php echo $lang['MENU_ABOUT_US']; ?></a>
 		  		</li>
 
 		  		<li class="nav-item">
-		    		<a class="nav-link" href="saunas.php"><?php echo $lang['MENU_SAUNA']; ?></a>
+		    		<a class="nav-link" href="../webPage/saunas.php"><?php echo $lang['MENU_SAUNA']; ?></a>
 		  		</li>
 
 		  		<li class="nav-item">
-		   			<a class="nav-link" href="faq.php"><?php echo $lang['MENU_FAQ']; ?></a>
+		   			<a class="nav-link" href="../webPage/faq.php"><?php echo $lang['MENU_FAQ']; ?></a>
 		 		 </li>
 
 		  		<li class="nav-item dropdown">
@@ -66,13 +66,6 @@
 		    			</a>
 	    			</div>
 		  		</li>
-          <a class="nav-link" href="login.php"><?php echo $lang['MENU_LOGIN']; ?></a>
+          <a class="nav-link" href="../webPage/login.php"><?php echo $lang['MENU_LOGIN']; ?></a>
 			</ul>
 		</div>
-		
-
-	
-
-	
-
-
