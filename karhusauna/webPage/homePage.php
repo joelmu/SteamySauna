@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 <?php include "header_menu_bar.php" ?>
 <br>
 <p>jewbear-> Drink!!!</p>
@@ -10,4 +14,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
 <footer>
 <?php include "footer.php" ?>
 </footer>
-

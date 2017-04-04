@@ -3,7 +3,7 @@ body {
 	padding-bottom: 1rem;
 }
 #navigation-bar {
-	background-color: black; 
+	background-color: black;
 	font-family: 'Raleway';
 }
 #navigation-bar a{
@@ -17,7 +17,13 @@ body {
 	border: none;
 	background-color: black;
 }
+<<<<<<< HEAD
 
 
 
 		
+=======
+#logo{
+	float:left;
+}
+>>>>>>> origin/master
