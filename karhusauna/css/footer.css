@@ -1,0 +1,9 @@
+#footer-bar {
+	background-color: black;
+	font-family: 'Raleway';
+	padding: 8px;
+	color: #ccc;
+}
+#footer-bar a{
+	color: #ccc;
+}

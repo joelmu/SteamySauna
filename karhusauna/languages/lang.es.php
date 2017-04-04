@@ -12,9 +12,9 @@ $lang['PAGE_TITLE'] = 'Karhusauna';
 $lang['ACTIVE_LANG'] = '?lang=es';
 $lang['ACTIVE_LANG_IMG'] = '../images/small/Spanish.png';
 
-$lang['UNACTIVE_LANG_1'] = '?lang=fi';
+$lang['UNACTIVE_LANG_1'] = '?lang=en';
 $lang['UNACTIVE_LANG_1_IMG'] = '../images/small/English.png';
-$lang['UNACTIVE_LANG_2'] = '?lang=es';
+$lang['UNACTIVE_LANG_2'] = '?lang=fi';
 $lang['UNACTIVE_LANG_2_IMG'] = '../images/small/Finnish.png';
 
 $lang['MENU_HOME'] = 'Casa';
