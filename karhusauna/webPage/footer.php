@@ -6,8 +6,7 @@
 
 	<!-- Footer -->
 		
-			<div id="footer-bar">
-				<div class="row">
+				<div class="row" id="footer-bar">
 					<!-- Social media bar -->
 					<div class="col-md-4">
 						<a href="https://www.facebook.com/karhusauna">Facebook</a>
@@ -18,7 +17,6 @@
 						04 97382782
 					</div>
 				</div>
-			</div>
 		</div>
 
 </body>
