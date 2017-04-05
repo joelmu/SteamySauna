@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 <?php include "header_menu_bar.php" ?>
 <br>
 <p>jewbear-> Drink!!!</p>
