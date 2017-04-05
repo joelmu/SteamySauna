@@ -5,25 +5,12 @@ body {
 #navigation-bar {
 	background-color: black;
 	font-family: 'Raleway';
+	color: #ccc;
 }
 #navigation-bar a{
 	color: #ccc;
 }
 #navigation-bar img{
-	max-width: 50%;
-	max-height: 50%;
+	max-width: 40%;
+	max-height: 40%;
 }
-.dropdown-menu {
-	border: none;
-	background-color: black;
-}
-<<<<<<< HEAD
-
-
-
-		
-=======
-#logo{
-	float:left;
-}
->>>>>>> origin/master
