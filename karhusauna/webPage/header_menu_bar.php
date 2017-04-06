@@ -30,7 +30,7 @@
 
 <body>
 
-<div class="container">
+<div class="container-fluid">
 
 	<div class="row" id="navigation-bar">
 		<div class="col-md-2">
