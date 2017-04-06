@@ -4,8 +4,11 @@
 	<!-- Custom CSS files -->
 		<link rel="stylesheet" href="../css/footer.css">
 
+<<<<<<< HEAD
 	<!-- Footer -->
 
+=======
+>>>>>>> origin/master
 
 			<div id="footer-bar">
 				<div class="row">
